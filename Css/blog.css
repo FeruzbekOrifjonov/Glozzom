@@ -1,0 +1,73 @@
+
+
+.kite{
+    margin-left: auto;
+    text-transform: uppercase;
+}
+.bg5{
+    background: url(image1.jpg);
+    height: 30vh;
+    width: 100%;
+    background-position: right;
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.bg-wheat{
+    background-color: rgb(255, 255, 255);
+    margin-top: 3rem;
+    
+}
+.bg-wheat img{
+    border-top-left-radius: 3%;
+    border-top-right-radius: 3%;
+}
+.items{
+    border: 1px solid rgba(0,0,0,.125);
+    padding: 1rem;
+    border-bottom-left-radius: 3%;
+    border-bottom-right-radius: 3%;
+}
+.text-black{
+    color: black !important;
+    
+
+}
+.text-gray{
+    color: gray !important;
+}
+.text-white{
+    color: white !important;
+}
+.mt-2{
+    margin-top: 3rem;
+}
+.border{
+    border: 1px solid rgba(0,0,0,.125);
+    padding: 3rem 2rem;
+    border-radius: 3%;
+}
+.border2{
+    padding: 3rem 2rem;
+    border-radius: 3%;
+}
+.font-size{
+    font-size: 11px;
+}
+.bg-danger{
+    margin-top: 3rem;
+    border: 1px solid rgba(0,0,0,.125);
+}
+.footer{
+    background-color: black;
+    height: auto;
+    color: white;
+    text-align: center;
+    padding: 1rem 0px 1.5rem 0px;
+
+}
+.pb-1{
+    margin-bottom: 3rem;
+}

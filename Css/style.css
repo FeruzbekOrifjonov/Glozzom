@@ -1,0 +1,98 @@
+
+
+.kite{
+    margin-left: auto;
+    text-transform: uppercase;
+}
+.carousel-item{
+    height: auto;
+    color: white;
+    padding: 10rem 3rem;
+    text-align: right;
+
+}
+.carousel-item h1{
+    font-size: 4rem;
+    font-weight: 200;
+
+}
+
+.ads{
+    background-image: url(image1.jpg);
+    background-size: cover;
+    background-position: top;
+}
+.center{
+    text-align: center;
+}
+.mb-2{
+    margin-bottom: 1rem !important;
+    margin-top: 2rem !important;
+}
+.home-heading{
+    background-image: url(lights.jpg);
+    min-height: 140px;
+    background-attachment: fixed;
+}
+.text{
+    color: white;
+    text-align: center;
+    padding-top: 2rem;
+}
+.text i{
+    color: white;
+    text-align: center;
+    
+}
+.overlay{
+    background: rgba(0, 0, 0, 0.7);
+    min-height: 140px;
+}
+.rasm{
+    max-width: 100%;
+    height: auto;
+    
+}
+.pad{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+}
+.video{
+    background-image: url(media.jpg);
+    min-height: 140px;
+    background-attachment: fixed; 
+}
+.gap{
+    margin-top: 2rem;
+}
+.texts{
+    margin-top: 3rem;
+}
+.tekst{
+    padding-top: 3rem;
+}
+.otasi{
+    text-align: center;
+    padding-bottom: 4rem;
+}
+.otasi input{
+    display: inline-block;
+    
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    border-radius: 0.5rem;
+    margin-left: 1rem;
+    
+}
+.footer{
+    background-color: black;
+    height: auto;
+    color: white;
+    text-align: center;
+    padding: 1rem 0px 1.5rem 0px;
+
+}

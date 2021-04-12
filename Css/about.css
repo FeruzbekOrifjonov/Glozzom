@@ -1,0 +1,56 @@
+
+
+.kite{
+    margin-left: auto;
+    text-transform: uppercase;
+}
+.bg5{
+    background: url(image1.jpg);
+    height: 30vh;
+    width: 100%;
+    background-position: right;
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.mg-1{
+    margin-top: 3rem;
+}
+.text-white{
+    color: white !important;
+}
+.text-align{
+    text-align: center !important;
+}
+.bg-danger{
+    background-color: #dc3545!important;
+}
+.cardbody i{
+    padding-top: 2rem;
+}
+.bg-dark{
+    background-color: #343a40!important;
+}
+#testimona{
+    background-color: #343a40;
+
+}
+.pd-1{
+    padding-bottom: 3rem;
+}
+.weight h5{
+    font-weight: 400;
+}
+.weight span{
+    color: gray;
+} 
+.footer{
+    background-color: black;
+    height: auto;
+    color: white;
+    text-align: center;
+    padding: 1rem 0px 1.5rem 0px;
+
+}
