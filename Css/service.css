@@ -4,7 +4,7 @@
     text-transform: uppercase;
 }
 .bg5{
-    background: url(image1.jpg);
+    background: url(../Images/image1.jpg);
     height: 30vh;
     width: 100%;
     background-position: right;
