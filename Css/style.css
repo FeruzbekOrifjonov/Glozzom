@@ -18,7 +18,7 @@
 }
 
 .ads{
-    background-image: url(image1.jpg);
+    background-image: url(../Images/image1.jpg);
     background-size: cover;
     background-position: top;
 }
@@ -30,7 +30,7 @@
     margin-top: 2rem !important;
 }
 .home-heading{
-    background-image: url(lights.jpg);
+    background-image: url(../Images/lights.jpg);
     min-height: 140px;
     background-attachment: fixed;
 }
@@ -60,7 +60,7 @@
     justify-content: center;
 }
 .video{
-    background-image: url(media.jpg);
+    background-image: url(../Images/media.jpg);
     min-height: 140px;
     background-attachment: fixed; 
 }
